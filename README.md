@@ -30,4 +30,4 @@ In addition to the raw sensor measurements, we provide a file titled "R_Peaks" f
 
 Finally, we provide Tables of the Mean Absolute Error (MAE), Mean Absolute Error Percent (MAEP), and performance index (PI) calculated from all the fourteen (14) participants of the wrist-dataset and palm-dataset. 
 
-If you use the dataset, please cite the paper as follows: Alkhoury, L., Choi, J., Chandran, V. D., De Carvalho, G., Pal, S., & Kam, M. (2022). Dual Wavelength Photoplethysmography Framework for Heart Rate Calculation Under Extensive Motion Artifacts. Sensors.
+If you use the dataset, please cite the paper as follows: Alkhoury, L., Choi, J., Chandran, V. D., De Carvalho, G. B., Pal, S., & Kam, M. (2022). Dual Wavelength Photoplethysmography Framework for Heart Rate Calculation. Sensors, 22(24), 9955.
