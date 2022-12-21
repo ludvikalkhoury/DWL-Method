@@ -1,7 +1,7 @@
 This is a supplement to:
 "Dual Wavelength Photoplethysmography Framework for Heart Rate Calculation," a paper by:
 
-Ludvik Alkhoury*, JiWon Choi*, Vishnu D. Chandran†, Gabriela De Carvalho†, Saikat Pal*,†, and Moshe Kam*
+Ludvik Alkhoury*, JiWon Choi*, Vishnu D. Chandran†, Gabriela B. De Carvalho†, Saikat Pal*,†, and Moshe Kam*
 
 *Department of Electrical and Computer Engineering,
 Newark College of Engineering,
