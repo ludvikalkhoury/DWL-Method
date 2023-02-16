@@ -18,13 +18,14 @@ We provide two datasets; wrist-dataset and palm-dataset. Each dataset contains t
 1- Electrocadiagraphy (ECG) waveform (1st column)     
 2- 3-axial X, Y, and Z accelerometer readings (2nd, 3rd, and 4th columns, respectively)   
 3- 3-axial X, Y, and Z gyroscope readings (5th, 6th, and 7th columns, respectively)   
-4- Green photoplethysmopraghy (PPG) waveforms (8th column)   
-5- Infrared photoplethysmopraghy (PPG) waveforms (9th column)  
+4- Infrared photoplethysmopraghy (PPG) waveforms (8th column)   
+5- Green photoplethysmopraghy (PPG) waveforms (9th column)  
+6- Blue photoplethysmopraghy (PPG) waveforms (10th column)  
 
 Note: The sampling frequency is 100 Hz
 
-* Wrist-dataset: In the wrist-dataset, green and infrared PPG signals were collected from the wrist of the participant. 
-* Palm-dataset: In the palm-dataset, green and infrared PPG signals were collected from the palm of the participant. 
+* Wrist-dataset: In the wrist-dataset, PPG signals were collected from the wrist of the participant. 
+* Palm-dataset: In the palm-dataset, PPG signals were collected from the palm of the participant. 
 
 In addition to the raw sensor measurements, we provide a file titled "R_Peaks" for each one of the ECG waveforms we collected. The "R_peaks" file contains the locations of the R-peaks in the corresponding ECG signal. The R-peaks are used to calculate a heart rate ground truth. 
 
