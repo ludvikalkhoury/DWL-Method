@@ -18,9 +18,7 @@ We provide two datasets; wrist-dataset and palm-dataset. Each dataset contains t
 1- Electrocadiagraphy (ECG) waveform (1st column)     
 2- 3-axial X, Y, and Z accelerometer readings (2nd, 3rd, and 4th columns, respectively)   
 3- 3-axial X, Y, and Z gyroscope readings (5th, 6th, and 7th columns, respectively)   
-4- Infrared photoplethysmopraghy (PPG) waveforms (8th column)   
-5- Green photoplethysmopraghy (PPG) waveforms (9th column)  
-6- Blue photoplethysmopraghy (PPG) waveforms (10th column)  
+4- Infrared, Green, and Blue photoplethysmopraghy (PPG) waveforms (8th, 9th, and 10th columns, respectively)   
 
 Note: The sampling frequency is 100 Hz
 
